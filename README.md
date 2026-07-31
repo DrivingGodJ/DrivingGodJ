@@ -76,7 +76,6 @@ Creative technology / 创意技术
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![AI Assisted](https://img.shields.io/badge/AI--assisted%20workflow-4B6BFB?style=flat-square)
 
 ## Interests / 兴趣
@@ -84,14 +83,6 @@ Creative technology / 创意技术
 Beyond design, I'm interested in **photography, sim racing, display technology, reading, animation, games, and film**. They often lead me back to similar questions: why an image feels convincing, how details shape an experience, and how technology can support expression instead of distracting from it.
 
 除了设计，我也关注**摄影、模拟赛车、显示技术、阅读、动画、游戏与电影**。这些兴趣常常把我带回相似的问题：一张画面为什么具有说服力，细节如何塑造体验，以及技术怎样服务于表达而不是喧宾夺主。
-
-## What you'll find here / 这里会有什么
-
-- Automotive design studies and references / 汽车设计练习与参考资料
-- Sketching and 3D-learning progress / 手绘与三维软件学习记录
-- Photography, image, and video experiments / 摄影、图像与视频创作实验
-- Small tools and personal automations / 小工具与个人自动化项目
-- Notes on design methods and creative workflows / 设计方法与创作工作流笔记
 
 ## A principle I work by / 我的学习原则
 
