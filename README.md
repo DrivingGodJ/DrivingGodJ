@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm DGJ / 你好，我是曾鸿骞 👋
+# Hi, I'm DGJ / 你好，我是DGJ 👋
 
 ### Automotive Styling · Industrial Design · Visual Creation
 ### 汽车造型 · 工业设计 · 视觉创作
