@@ -69,7 +69,6 @@ Creative technology / 创意技术
 
 ![Rhino](https://img.shields.io/badge/Rhino-Learning-801010?style=flat-square&logo=rhinoceros&logoColor=white)
 ![Alias](https://img.shields.io/badge/Alias-Learning-000000?style=flat-square&logo=autodesk&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-Learning-F57C00?style=flat-square&logo=autodesk&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-Learning-E87D0D?style=flat-square&logo=blender&logoColor=white)
 
 ### Creative computing / 创意技术
