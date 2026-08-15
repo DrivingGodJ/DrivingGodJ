@@ -24,8 +24,8 @@ I'm interested in the full journey from an initial idea to a convincing visual r
   学习汽车外饰造型与交通工具设计
 - ✏️ Practicing sketching, proportion, perspective, and visual storytelling  
   练习手绘、比例、透视与视觉叙事
-- 🧩 Learning 3D tools including Rhino, Alias, Fusion 360, and Blender  
-  正在学习 Rhino、Alias、Fusion 360 与 Blender 等 3D 软件
+- 🧩 Learning 3D tools including Rhino, Alias, and Blender  
+  正在学习 Rhino、Alias与 Blender 等 3D 软件
 - 📷 Creating mainly with Lightroom, Photoshop, and DaVinci Resolve  
   目前主要使用 Lightroom、Photoshop 与 DaVinci Resolve 进行创意制作
 - 🤖 Exploring AI-assisted workflows and personal automation  
