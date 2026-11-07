@@ -18,16 +18,16 @@
 | --- | --- |
 | 设计基础 | 汽车设计手绘、比例与姿态、形态语言、透视和视觉叙事 |
 | 三维探索 | Rhino 与 NURBS、Fusion 360、Blender、Alias 与汽车 Class-A 曲面 |
-| 视觉创作 | Lightroom 摄影后期、Photoshop 图像创作、DaVinci Resolve 剪辑与调色 |
+| 视觉创作 | Lightroom 与 Luminar 摄影后期、Photoshop 图像创作、DaVinci Resolve 剪辑与调色 |
 | 创意技术 | Git 与 GitHub、AI 辅助创作、个人工作流自动化 |
 
 ## 工具
 
-**主要创作工具：**Lightroom、Photoshop、DaVinci Resolve。
+**主要创作工具**：Lightroom、Luminar、Photoshop、DaVinci Resolve。
 
-**正在学习：**Rhino、Alias、Blender。
+**正在学习**：Rhino、Alias、Blender。
 
-**辅助工作流：**Git、GitHub、AI 与自动化。
+**辅助工作流**：Git、GitHub、AI 与自动化。
 
 ## 兴趣
 

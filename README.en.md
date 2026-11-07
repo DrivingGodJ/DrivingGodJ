@@ -18,16 +18,16 @@ I enjoy the journey from an initial idea to a convincing visual result: observin
 | --- | --- |
 | Design foundations | Automotive sketching, proportion and stance, form language, perspective and visual storytelling |
 | 3D exploration | Rhino and NURBS, Fusion 360, Blender, Alias and automotive Class-A surfacing |
-| Visual creation | Lightroom photo processing, Photoshop image creation, DaVinci Resolve editing and color |
+| Visual creation | Lightroom and Luminar photo processing, Photoshop image creation, DaVinci Resolve editing and color |
 | Creative technology | Git and GitHub, AI-assisted creation and personal workflow automation |
 
 ## Tools
 
-**Main creative tools:** Lightroom, Photoshop and DaVinci Resolve.
+**Main creative tools**: Lightroom, Luminar, Photoshop and DaVinci Resolve.
 
-**Currently learning:** Rhino, Alias and Blender.
+**Currently learning**: Rhino, Alias and Blender.
 
-**Supporting workflows:** Git, GitHub, AI and automation.
+**Supporting workflows**: Git, GitHub, AI and automation.
 
 ## Interests
 
