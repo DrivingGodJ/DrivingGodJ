@@ -1,9 +1,9 @@
 **简体中文** | [English](README.en.md)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-zh-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-zh-light.svg">
-  <img alt="DGJ · 设计 / 软件 / 影像 · 工业设计3+1" src="assets/hero-zh-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-zh-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-zh-light.png">
+  <img alt="DGJ · 设计 / 软件 / 影像 · 工业设计3+1" src="assets/hero-zh-light.png" width="100%">
 </picture>
 
 # 我是 DGJ，喜欢摄影，也拍视频、做软件。
@@ -17,13 +17,13 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/DormCast"><img src="assets/project-dormcast-zh.svg" alt="宿舍之音 · DormCast · 电脑放歌，同一局域网的手机和电脑扫码打开网页收听。主机常驻托盘，统一调整广播音量。" width="440"></a>
+<a href="https://github.com/DrivingGodJ/DormCast"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-dormcast-zh.svg" alt="宿舍之音 · DormCast · 电脑放歌，同一局域网的手机和电脑扫码打开网页收听。主机常驻托盘，统一调整广播音量。" width="440"></a>
 <h3>宿舍之音 · DormCast</h3>
 <p>电脑放歌，同一局域网的手机和电脑扫码打开网页收听。主机常驻托盘，统一调整广播音量。</p>
 <p><a href="https://github.com/DrivingGodJ/DormCast/releases/latest">下载 Windows 版 ↗</a> · <a href="https://github.com/DrivingGodJ/DormCast">源码</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway"><img src="assets/project-gateway-zh.svg" alt="WorkBuddy QQ Agent 网关 · 让“赛博群友”接住 QQ 群聊与私聊里的任务，整理大学群通知；网页面板显示进展，管理会话与订阅。" width="440"></a>
+<a href="https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-gateway-zh.svg" alt="WorkBuddy QQ Agent 网关 · 让“赛博群友”接住 QQ 群聊与私聊里的任务，整理大学群通知；网页面板显示进展，管理会话与订阅。" width="440"></a>
 <h3>WorkBuddy QQ Agent 网关</h3>
 <p>让“赛博群友”接住 QQ 群聊与私聊里的任务，整理大学群通知；网页面板显示进展，管理会话与订阅。</p>
 <p><a href="https://www.bilibili.com/video/BV1QnpP69EHE/">演示视频 ↗</a> · <a href="https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway">源码</a></p>
@@ -31,13 +31,13 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/nsfz-campus-gallery"><img src="assets/project-campus-zh.svg" alt="附中影像 · 把校园照片放进察哈尔路校区的三维地图，按季节、时段和楼层寻找，再回到拍摄者的视角对照。" width="440"></a>
+<a href="https://github.com/DrivingGodJ/nsfz-campus-gallery"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-campus-zh.svg" alt="附中影像 · 把校园照片放进察哈尔路校区的三维地图，按季节、时段和楼层寻找，再回到拍摄者的视角对照。" width="440"></a>
 <h3>附中影像</h3>
 <p>把校园照片放进察哈尔路校区的三维地图，按季节、时段和楼层寻找，再回到拍摄者的视角对照。</p>
 <p><a href="https://drivinggodj.github.io/nsfz-campus-gallery/">走进校园 ↗</a> · <a href="https://github.com/DrivingGodJ/nsfz-campus-gallery">源码</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/shiguang-memory"><img src="assets/project-shiguang-zh.svg" alt="拾光 · B站收藏时光机 · 把 B站公开收藏夹变成按日期翻看的时间线，加上搜索、随机回忆和“那年今日”。" width="440"></a>
+<a href="https://github.com/DrivingGodJ/shiguang-memory"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-shiguang-zh.svg" alt="拾光 · B站收藏时光机 · 把 B站公开收藏夹变成按日期翻看的时间线，加上搜索、随机回忆和“那年今日”。" width="440"></a>
 <h3>拾光 · B站收藏时光机</h3>
 <p>把 B站公开收藏夹变成按日期翻看的时间线，加上搜索、随机回忆和“那年今日”。</p>
 <p><a href="https://drivinggodj.github.io/shiguang-memory/">翻翻收藏 ↗</a> · <a href="https://github.com/DrivingGodJ/shiguang-memory">源码</a></p>
@@ -69,8 +69,8 @@
 ## 03 / 手头的工具
 
 <table>
-<tr><td>摄影&amp;设计</td><td><img alt="Lightroom" src="assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="assets/tool-photoshop.svg" height="28"></td></tr>
-<tr><td>视频剪辑与调色</td><td><img alt="DaVinci Resolve" src="assets/tool-davinciresolve.svg" height="28"></td></tr>
-<tr><td>三维建模</td><td><img alt="Rhino" src="assets/tool-rhinoceros.svg" height="28"> <img alt="Blender" src="assets/tool-blender.svg" height="28"> <img alt="Alias" src="assets/tool-alias.svg" height="28"></td></tr>
-<tr><td>开发与版本管理</td><td><img alt="Codex" src="assets/tool-codex.svg" height="28"> <img alt="Git" src="assets/tool-git.svg" height="28"> <img alt="GitHub" src="assets/tool-github.svg" height="28"></td></tr>
+<tr><td>摄影&amp;设计</td><td><img alt="Lightroom" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-photoshop.svg" height="28"></td></tr>
+<tr><td>视频剪辑与调色</td><td><img alt="DaVinci Resolve" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-davinciresolve.svg" height="28"></td></tr>
+<tr><td>三维建模</td><td><img alt="Rhino" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-rhinoceros.svg" height="28"> <img alt="Blender" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-blender.svg" height="28"> <img alt="Alias" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-alias.svg" height="28"></td></tr>
+<tr><td>开发与版本管理</td><td><img alt="Codex" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-codex.svg" height="28"> <img alt="Git" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-git.svg" height="28"> <img alt="GitHub" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-github.svg" height="28"></td></tr>
 </table>

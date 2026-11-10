@@ -1,9 +1,9 @@
 [简体中文](README.md) | **English**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-en-light.svg">
-  <img alt="DGJ · Design / Code / Film · Industrial Design 3+1" src="assets/hero-en-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-en-light.png">
+  <img alt="DGJ · Design / Code / Film · Industrial Design 3+1" src="assets/hero-en-light.png" width="100%">
 </picture>
 
 # I'm DGJ. I love photography, make videos and build software.
@@ -17,13 +17,13 @@ I joined the **Industrial Design 3+1 program at Nanjing University of Science an
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/DormCast"><img src="assets/project-dormcast-en.svg" alt="DormCast · Stream Windows audio to phones and computers on the same LAN. Join in a browser, keep the host in the tray, and control broadcast volume centrally." width="440"></a>
+<a href="https://github.com/DrivingGodJ/DormCast"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-dormcast-en.svg" alt="DormCast · Stream Windows audio to phones and computers on the same LAN. Join in a browser, keep the host in the tray, and control broadcast volume centrally." width="440"></a>
 <h3>DormCast</h3>
 <p>Stream Windows audio to phones and computers on the same LAN. Join in a browser, keep the host in the tray, and control broadcast volume centrally.</p>
 <p><a href="https://github.com/DrivingGodJ/DormCast/releases/latest">Download for Windows ↗</a> · <a href="https://github.com/DrivingGodJ/DormCast">Source</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway"><img src="assets/project-gateway-en.svg" alt="WorkBuddy QQ Agent Gateway · A “cyber groupmate” for tasks and university-group notices in QQ chats. A web console shows progress and manages sessions and subscriptions." width="440"></a>
+<a href="https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-gateway-en.svg" alt="WorkBuddy QQ Agent Gateway · A “cyber groupmate” for tasks and university-group notices in QQ chats. A web console shows progress and manages sessions and subscriptions." width="440"></a>
 <h3>WorkBuddy QQ Agent Gateway</h3>
 <p>A “cyber groupmate” for tasks and university-group notices in QQ chats. A web console shows progress and manages sessions and subscriptions.</p>
 <p><a href="https://www.bilibili.com/video/BV1QnpP69EHE/">Watch the demo ↗</a> · <a href="https://github.com/DrivingGodJ/workbuddy-qq-agent-gateway">Source</a></p>
@@ -31,13 +31,13 @@ I joined the **Industrial Design 3+1 program at Nanjing University of Science an
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/nsfz-campus-gallery"><img src="assets/project-campus-en.svg" alt="NSFZ Campus Archive · Explore campus photos on a 3D map of Chaha'er Road. Search by season, time and floor, then compare the scene from the photographer's viewpoint." width="440"></a>
+<a href="https://github.com/DrivingGodJ/nsfz-campus-gallery"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-campus-en.svg" alt="NSFZ Campus Archive · Explore campus photos on a 3D map of Chaha'er Road. Search by season, time and floor, then compare the scene from the photographer's viewpoint." width="440"></a>
 <h3>NSFZ Campus Archive</h3>
 <p>Explore campus photos on a 3D map of Chaha'er Road. Search by season, time and floor, then compare the scene from the photographer's viewpoint.</p>
 <p><a href="https://drivinggodj.github.io/nsfz-campus-gallery/">Walk around ↗</a> · <a href="https://github.com/DrivingGodJ/nsfz-campus-gallery">Source</a></p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/DrivingGodJ/shiguang-memory"><img src="assets/project-shiguang-en.svg" alt="Shiguang · Turn public Bilibili favorites into a dated timeline, with search, random memories and an “on this day” view." width="440"></a>
+<a href="https://github.com/DrivingGodJ/shiguang-memory"><img src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/project-shiguang-en.svg" alt="Shiguang · Turn public Bilibili favorites into a dated timeline, with search, random memories and an “on this day” view." width="440"></a>
 <h3>Shiguang</h3>
 <p>Turn public Bilibili favorites into a dated timeline, with search, random memories and an “on this day” view.</p>
 <p><a href="https://drivinggodj.github.io/shiguang-memory/">Revisit favorites ↗</a> · <a href="https://github.com/DrivingGodJ/shiguang-memory">Source</a></p>
@@ -69,8 +69,8 @@ I joined the **Industrial Design 3+1 program at Nanjing University of Science an
 ## 03 / Tools I use
 
 <table>
-<tr><td>Photography &amp; design</td><td><img alt="Lightroom" src="assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="assets/tool-photoshop.svg" height="28"></td></tr>
-<tr><td>Video editing &amp; color</td><td><img alt="DaVinci Resolve" src="assets/tool-davinciresolve.svg" height="28"></td></tr>
-<tr><td>3D modeling</td><td><img alt="Rhino" src="assets/tool-rhinoceros.svg" height="28"> <img alt="Blender" src="assets/tool-blender.svg" height="28"> <img alt="Alias" src="assets/tool-alias.svg" height="28"></td></tr>
-<tr><td>Development &amp; version control</td><td><img alt="Codex" src="assets/tool-codex.svg" height="28"> <img alt="Git" src="assets/tool-git.svg" height="28"> <img alt="GitHub" src="assets/tool-github.svg" height="28"></td></tr>
+<tr><td>Photography &amp; design</td><td><img alt="Lightroom" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-photoshop.svg" height="28"></td></tr>
+<tr><td>Video editing &amp; color</td><td><img alt="DaVinci Resolve" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-davinciresolve.svg" height="28"></td></tr>
+<tr><td>3D modeling</td><td><img alt="Rhino" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-rhinoceros.svg" height="28"> <img alt="Blender" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-blender.svg" height="28"> <img alt="Alias" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-alias.svg" height="28"></td></tr>
+<tr><td>Development &amp; version control</td><td><img alt="Codex" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-codex.svg" height="28"> <img alt="Git" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-git.svg" height="28"> <img alt="GitHub" src="https://raw.githubusercontent.com/DrivingGodJ/DrivingGodJ/cdf365c21355d586d59c7055ab73f7df41424310/assets/tool-github.svg" height="28"></td></tr>
 </table>
