@@ -69,7 +69,7 @@
 ## 03 / 手头的工具
 
 <table>
-<tr><td>摄影后期</td><td><img alt="Lightroom" src="assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="assets/tool-photoshop.svg" height="28"></td></tr>
+<tr><td>摄影&amp;设计</td><td><img alt="Lightroom" src="assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="assets/tool-photoshop.svg" height="28"></td></tr>
 <tr><td>视频剪辑与调色</td><td><img alt="DaVinci Resolve" src="assets/tool-davinciresolve.svg" height="28"></td></tr>
 <tr><td>三维建模</td><td><img alt="Rhino" src="assets/tool-rhinoceros.svg" height="28"> <img alt="Blender" src="assets/tool-blender.svg" height="28"> <img alt="Alias" src="assets/tool-alias.svg" height="28"></td></tr>
 <tr><td>开发与版本管理</td><td><img alt="Codex" src="assets/tool-codex.svg" height="28"> <img alt="Git" src="assets/tool-git.svg" height="28"> <img alt="GitHub" src="assets/tool-github.svg" height="28"></td></tr>

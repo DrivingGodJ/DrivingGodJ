@@ -1,1 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="82" height="34" viewBox="0 0 82 34" role="img" aria-label="Alias"><rect x=".5" y=".5" width="81" height="33" rx="7" fill="#121e32" stroke="#30415d"/><text x="19" y="23" fill="#91d5af" text-anchor="middle" font-size="17" font-weight="700">A</text><text x="37" y="22" fill="#ebf2ff" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="12">Alias</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="34" viewBox="0 0 82 34" role="img" aria-label="Alias"><style>:root{--purple:#5958a9;--codex:#237560;--orange:#c65f20;--bg:#f0f4fb;--border:#cbd8ea;--fg:#17243c;--blue:#1466a1;--pink:#8a2cad;--green:#24744e;--soft:#4c6290} @media(prefers-color-scheme:dark){:root{--purple:#b7bdfe;--codex:#b7e6d5;--orange:#f9ac76;--bg:#121e32;--border:#30415d;--fg:#ebf2ff;--blue:#83c7fa;--pink:#da9bef;--green:#91d5af;--soft:#cbd6ed}}</style><rect x=".5" y=".5" width="81" height="33" rx="7" fill="var(--bg)" stroke="var(--border)"/><svg x="7" y="5" width="24" height="24" viewBox="0 0 150 150">
+<g clip-path="url(#clip0_7136_22619)">
+<path d="M31.4582 0.0637022L31.4916 0.00683594L138.848 23.7312H149.999V128.909H28.7081C26.6879 128.909 24.7504 128.106 23.3219 126.678C21.8934 125.249 21.0908 123.312 21.0908 121.292V110.986L31.4582 0.0637022Z" fill="#933C00"/>
+<path d="M139.599 105.471H31.458V0.0633996L31.4912 0H131.981C134.002 0 135.939 0.802537 137.368 2.23106C138.796 3.65959 139.599 5.59708 139.599 7.61732V105.471Z" fill="#FF6B00"/>
+<path d="M8.63965 119.24L31.4916 105.471V0L8.63965 13.7698V119.24Z" fill="#FF9548"/>
+<path d="M93.9381 69.2763H76.4035L73.1471 82.0516H58.6182L75.318 23.6025H94.7731L112.391 82.0516H97.5285L93.9381 69.2763ZM85.0037 33.2049L79.0754 58.4214H91.099L85.0037 33.2049Z" fill="white"/>
+</g>
+<defs>
+<clipPath id="clip0_7136_22619">
+<rect width="141.36" height="128.909" fill="white" transform="translate(8.63965)"/>
+</clipPath>
+</defs>
+</svg><text x="37" y="22" fill="var(--fg)" font-family="'Segoe UI','Microsoft YaHei',Arial,sans-serif" font-size="12">Alias</text></svg>

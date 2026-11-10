@@ -69,7 +69,7 @@ I joined the **Industrial Design 3+1 program at Nanjing University of Science an
 ## 03 / Tools I use
 
 <table>
-<tr><td>Photo editing</td><td><img alt="Lightroom" src="assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="assets/tool-photoshop.svg" height="28"></td></tr>
+<tr><td>Photography &amp; design</td><td><img alt="Lightroom" src="assets/tool-lightroom.svg" height="28"> <img alt="Luminar" src="assets/tool-luminar.svg" height="28"> <img alt="Photoshop" src="assets/tool-photoshop.svg" height="28"></td></tr>
 <tr><td>Video editing &amp; color</td><td><img alt="DaVinci Resolve" src="assets/tool-davinciresolve.svg" height="28"></td></tr>
 <tr><td>3D modeling</td><td><img alt="Rhino" src="assets/tool-rhinoceros.svg" height="28"> <img alt="Blender" src="assets/tool-blender.svg" height="28"> <img alt="Alias" src="assets/tool-alias.svg" height="28"></td></tr>
 <tr><td>Development &amp; version control</td><td><img alt="Codex" src="assets/tool-codex.svg" height="28"> <img alt="Git" src="assets/tool-git.svg" height="28"> <img alt="GitHub" src="assets/tool-github.svg" height="28"></td></tr>
