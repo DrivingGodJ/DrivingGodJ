@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="600" viewBox="0 0 880 600" role="img" aria-labelledby="title desc">
+<title id="title">DormCast — One computer, a room full of sound</title><desc id="desc">Signal-flow illustration, not an app screenshot: Windows audio travels over the local network to phone and computer browsers.</desc>
+<defs><radialGradient id="bg"><stop stop-color="#213b60"/><stop offset="1" stop-color="#101a2c"/></radialGradient></defs>
+<style>text{font-family:'Segoe UI',Arial,sans-serif}.pulse{animation:pulse 4s ease-in-out infinite;transform-origin:440px 270px}@keyframes pulse{50%{opacity:.35}}@media(prefers-reduced-motion:reduce){.pulse{animation:none}}</style>
+<rect width="880" height="600" fill="url(#bg)"/>
+<g stroke="#49618a" fill="none" opacity=".4"><circle cx="440" cy="262" r="108"/><circle cx="440" cy="262" r="155"/><circle cx="440" cy="262" r="205" class="pulse"/></g>
+<text x="50" y="58" fill="#a8c0e6" font-size="15" letter-spacing="3">01 / LOCAL NETWORK AUDIO</text>
+<g fill="none" stroke="#b0c9f9" stroke-width="4" stroke-linejoin="round"><rect x="106" y="209" width="164" height="107" rx="10"/><path d="M188 316v27m-49 0h98"/><rect x="620" y="177" width="78" height="140" rx="12"/><path d="M643 195h31m-22 104h14"/><rect x="614" y="354" width="145" height="89" rx="9"/><path d="M598 458h178"/></g>
+<g fill="none" stroke="#7ee1d2" stroke-width="3"><path d="M300 263h45m190 0h53M536 285l51 62" stroke-dasharray="6 8"/><path d="M387 263v-20m14 41v-52m14 63v-78m14 60v-45m14 65v-86m14 69v-54m14 40v-24m14 36v-48m14 32v-16" stroke-linecap="round"/></g>
+<text x="133" y="389" fill="#c4d6f1" font-size="16" letter-spacing="2">WINDOWS</text><text x="610" y="492" fill="#c4d6f1" font-size="16" letter-spacing="2">WEB BROWSERS</text>
+<text x="50" y="533" fill="#f4f8ff" font-size="39" font-weight="650">DormCast</text><text x="52" y="566" fill="#a8c0e6" font-size="17">One computer. A room full of sound.</text>
+</svg>
