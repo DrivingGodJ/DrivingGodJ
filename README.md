@@ -1,12 +1,12 @@
 **简体中文** | [English](README.en.md)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-zh-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-zh-light.png">
-  <img alt="DGJ · 设计 / 软件 / 影像 · 工业设计3+1" src="assets/hero-zh-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-zh-dark-flow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-zh-light-flow.svg">
+  <img alt="DGJ · 设计 / 软件 / 影像 · 工业设计3+1" src="assets/hero-zh-light-flow.svg" width="100%">
 </picture>
 
-# 我是 DGJ，喜欢摄影，也拍视频、做软件。
+# 喜欢摄影，也拍视频、做软件。
 
 南京理工大学 **2026 级工业设计3+1专业在读**，南师附中 2026 届毕业。爱好摄影，常拍校园、旅行与日常；也折腾桌面、宿舍和自己会用的小工具。
 

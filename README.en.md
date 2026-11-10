@@ -1,12 +1,12 @@
 [简体中文](README.md) | **English**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-en-light.png">
-  <img alt="DGJ · Design / Code / Film · Industrial Design 3+1" src="assets/hero-en-light.png" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark-flow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-en-light-flow.svg">
+  <img alt="DGJ · Design / Code / Film · Industrial Design 3+1" src="assets/hero-en-light-flow.svg" width="100%">
 </picture>
 
-# I'm DGJ. I love photography, make videos and build software.
+# I love photography, make videos and build software.
 
 I joined the **Industrial Design 3+1 program at Nanjing University of Science and Technology in 2026**, after graduating from Nanjing Normal University Affiliated High School that year. Photography is a favorite hobby: I shoot campuses, travel and everyday life, rework my desk and dorm, and build tools I use.
 
