@@ -1,9 +1,9 @@
 [简体中文](README.md) | **English**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark-flight.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-en-light-flight.svg">
-  <img alt="DGJ · Design / Code / Film · Industrial Design 3+1" src="assets/hero-en-light-flight.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-en-dark-breeze.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-en-light-breeze.svg">
+  <img alt="DGJ · Design / Code / Film · Industrial Design 3+1" src="assets/hero-en-light-breeze.svg" width="100%">
 </picture>
 
 # I love photography, make videos and build software.

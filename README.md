@@ -1,9 +1,9 @@
 **简体中文** | [English](README.en.md)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-zh-dark-flight.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-zh-light-flight.svg">
-  <img alt="DGJ · 设计 / 软件 / 影像 · 工业设计3+1" src="assets/hero-zh-light-flight.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-zh-dark-breeze.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/hero-zh-light-breeze.svg">
+  <img alt="DGJ · 设计 / 软件 / 影像 · 工业设计3+1" src="assets/hero-zh-light-breeze.svg" width="100%">
 </picture>
 
 # 喜欢摄影，也拍视频、做软件。
