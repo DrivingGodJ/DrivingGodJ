@@ -1,12 +1,52 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1120" height="354" viewBox="0 0 1120 354" role="img" aria-labelledby="title desc">
-<title id="title">DGJ · 设计 / 软件 / 影像</title><desc id="desc">工业设计 3+1 · 南京理工大学. Sonny Boy illustration supplied by DGJ.</desc>
-<defs><clipPath id="clip"><rect width="1120" height="354" rx="20"/></clipPath><linearGradient id="trail"><stop stop-color="#69e4d6" stop-opacity="0"/><stop offset=".6" stop-color="#69e4d6" stop-opacity=".55"/><stop offset="1" stop-color="#69e4d6" stop-opacity="0"/></linearGradient><radialGradient id="halo"><stop stop-color="#69e4d6" stop-opacity=".09"/><stop offset="1" stop-color="#69e4d6" stop-opacity="0"/></radialGradient></defs>
-<style>text{font-family:'Segoe UI','Microsoft YaHei',Arial,sans-serif}.mono{font-family:Consolas,'Microsoft YaHei',monospace}.trace{stroke-linecap:round;stroke-dasharray:56 544;animation:flow 7s linear infinite}.trace2{animation-duration:9.5s;animation-delay:-4.1s}.trace1{animation-delay:-1.2s}.trace3{animation-duration:12s;animation-delay:-7.3s}.rec{animation:recBlink 2.8s ease-in-out infinite;animation-delay:-.7s}@keyframes flow{from{stroke-dashoffset:600}to{stroke-dashoffset:0}}@keyframes recBlink{0%,100%{opacity:1}50%{opacity:.2}}@media(prefers-reduced-motion:reduce){.trace,.rec{animation:none}}</style>
-<g clip-path="url(#clip)"><rect width="1120" height="354" fill="#0b1020"/><ellipse cx="835" cy="185" rx="285" ry="170" fill="url(#halo)"/>
-<g fill="none" stroke="#26334d" stroke-width=".8"><path d="M554 267C715 275 829 119 1085 125M567 292C732 300 855 147 1107 155M589 317C754 325 877 175 1129 183"/></g>
-<path d="M554 267C715 275 829 119 1085 125" pathLength="600" fill="none" stroke="#69e4d6" stroke-opacity=".7" stroke-width="1.7" class="trace trace1"/><path d="M567 292C732 300 855 147 1107 155" pathLength="600" fill="none" stroke="#69e4d6" stroke-opacity=".5" stroke-width="1.4" class="trace trace2"/><path d="M589 317C754 325 877 175 1129 183" pathLength="600" fill="none" stroke="#69e4d6" stroke-opacity=".6" stroke-width="1.5" class="trace trace3"/>
-<path d="M42 37H62M42 37V57M1078 317H1058M1078 317V297" fill="none" stroke="#a7b3ce" stroke-opacity=".6"/>
-<text x="72" y="49" fill="#a7b3ce" font-size="12" letter-spacing="2" class="mono">DRIVINGGODJ / 个人作品</text><text x="56" y="186" fill="#f3f6ff" font-size="122" font-weight="750" letter-spacing="-8">DGJ<tspan fill="#69e4d6">.</tspan></text><text x="64" y="228" fill="#f3f6ff" font-size="22" font-weight="600" letter-spacing="3">设计 / 软件 / 影像</text><path d="M64 253H407" stroke="#26334d"/><text x="64" y="281" fill="#a7b3ce" font-size="13" class="mono">工业设计 3+1 · 南京理工大学</text><text x="64" y="304" fill="#a7b3ce" font-size="12" class="mono">南京，中国</text>
+<title id="title">DGJ · DESIGN / CODE / FILM</title><desc id="desc">INDUSTRIAL DESIGN 3+1 · NJUST. Sonny Boy illustration supplied by DGJ.</desc>
+<defs><clipPath id="clip"><rect width="1120" height="354" rx="20"/></clipPath><linearGradient id="trail"><stop stop-color="#087f83" stop-opacity="0"/><stop offset=".6" stop-color="#087f83" stop-opacity=".55"/><stop offset="1" stop-color="#087f83" stop-opacity="0"/></linearGradient><radialGradient id="halo"><stop stop-color="#087f83" stop-opacity=".09"/><stop offset="1" stop-color="#087f83" stop-opacity="0"/></radialGradient><linearGradient id="wind-stroke"><stop stop-color="#087f83" stop-opacity="0"/><stop offset=".72" stop-color="#087f83"/><stop offset="1" stop-color="#087f83" stop-opacity="0"/></linearGradient></defs>
+<style>text{font-family:'Segoe UI','Microsoft YaHei',Arial,sans-serif}.mono{font-family:Consolas,'Microsoft YaHei',monospace}.trace{stroke-linecap:round;stroke-dasharray:56 544;animation:flow 7s linear infinite}.trace2{animation-duration:9.5s;animation-delay:-4.1s}.trace1{animation-delay:-1.2s}.trace3{animation-duration:12s;animation-delay:-7.3s}.rec{animation:recBlink 2.8s ease-in-out infinite;animation-delay:-.7s}@keyframes flow{from{stroke-dashoffset:600}to{stroke-dashoffset:0}}@keyframes recBlink{0%,100%{opacity:1}50%{opacity:.2}}@media(prefers-reduced-motion:reduce){.trace,.rec{animation:none}}
+.flight {
+  transform-box: view-box;
+  transform-origin: 832px 175px;
+  animation: glide 6.8s ease-in-out infinite;
+}
+.wind {
+  opacity: 0;
+  animation: gust linear infinite;
+}
+.wind-upper { animation-duration: 4.7s; animation-delay: -3.1s; }
+.wind-near { animation-duration: 3.4s; animation-delay: -0.9s; }
+.wind-mid { animation-duration: 5.3s; animation-delay: -4.2s; }
+.wind-lower { animation-duration: 4.1s; animation-delay: -1.6s; }
+.wind-lowest { animation-duration: 5.8s; animation-delay: -2.5s; }
+
+@keyframes glide {
+  0%, 100% { transform: translate(0, 2px) rotate(-0.3deg); }
+  26% { transform: translate(-7px, -10px) rotate(-2.2deg); }
+  54% { transform: translate(-1px, -4px) rotate(0.2deg); }
+  79% { transform: translate(7px, 6px) rotate(2.1deg); }
+}
+@keyframes gust {
+  0% { transform: translateX(0); opacity: 0; }
+  15% { opacity: 0.54; }
+  72% { opacity: 0.36; }
+  100% { transform: translateX(700px); opacity: 0; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .flight, .wind { animation: none; }
+}
+</style>
+<g clip-path="url(#clip)"><rect width="1120" height="354" fill="#f1f5fc"/><ellipse cx="835" cy="185" rx="285" ry="170" fill="url(#halo)"/>
+<g fill="none" stroke="#ccd7e9" stroke-width=".8"><path d="M554 267C715 275 829 119 1085 125M567 292C732 300 855 147 1107 155M589 317C754 325 877 175 1129 183"/></g>
+<path d="M554 267C715 275 829 119 1085 125" pathLength="600" fill="none" stroke="#087f83" stroke-opacity=".7" stroke-width="1.7" class="trace trace1"/><path d="M567 292C732 300 855 147 1107 155" pathLength="600" fill="none" stroke="#087f83" stroke-opacity=".5" stroke-width="1.4" class="trace trace2"/><path d="M589 317C754 325 877 175 1129 183" pathLength="600" fill="none" stroke="#087f83" stroke-opacity=".6" stroke-width="1.5" class="trace trace3"/>
+<path d="M42 37H62M42 37V57M1078 317H1058M1078 317V297" fill="none" stroke="#52627d" stroke-opacity=".6"/>
+<text x="72" y="49" fill="#52627d" font-size="12" letter-spacing="2" class="mono">DRIVINGGODJ / PERSONAL WORKS</text><text x="56" y="186" fill="#111c35" font-size="122" font-weight="750" letter-spacing="-8">DGJ<tspan fill="#087f83">.</tspan></text><text x="64" y="228" fill="#111c35" font-size="22" font-weight="600" letter-spacing="3">DESIGN / CODE / FILM</text><path d="M64 253H407" stroke="#ccd7e9"/><text x="64" y="281" fill="#52627d" font-size="13" class="mono">INDUSTRIAL DESIGN 3+1 · NJUST</text><text x="64" y="304" fill="#52627d" font-size="12" class="mono">NANJING, CHINA</text>
+
+<g fill="none" stroke="url(#wind-stroke)" stroke-linecap="round" aria-hidden="true">
+  <g transform="translate(491 62)"><path class="wind wind-upper" d="M0 2 C25 2 44 -2 76 -2" stroke-width="1.0"/></g>
+  <g transform="translate(454 124)"><path class="wind wind-near" d="M0 3 C34 3 62 -3 116 -3" stroke-width="1.5"/></g>
+  <g transform="translate(520 198)"><path class="wind wind-mid" d="M0 2 C24 2 49 -3 82 -3" stroke-width="1.15"/></g>
+  <g transform="translate(458 277)"><path class="wind wind-lower" d="M0 4 C38 4 71 -4 131 -4" stroke-width="1.55"/></g>
+  <g transform="translate(534 319)"><path class="wind wind-lowest" d="M0 2 C25 2 47 -2 79 -2" stroke-width="1.05"/></g>
+</g>
+<g class="flight">
 <svg x="615" y="12" width="435" height="326" viewBox="0 0 7200 5400" preserveAspectRatio="xMidYMid meet">
 <path fill="#FBEADE" stroke="#000000" stroke-width="12.4468" stroke-miterlimit="10" d="M340.9965,880.2377
 	c-121.6029-64.0699-130.8825-49.3029-153.3021-62.9506c-13.4171-8.1675-9.927-27.8973,6.1786-28.9231
@@ -823,4 +863,6 @@
 	C2331.4939,541.1451,2313.3169,540.9357,2319.0688,547.5132z"/>
 <path fill="#886B5A" d="M2333.5627,512.9181c2.4253,13.2408,58.8601,19.3732,42.0776-0.5223
 	C2368.1426,506.9847,2332.0378,497.7491,2333.5627,512.9181z"/>
-</svg><circle class="rec" cx="1020" cy="43" r="4" fill="#69e4d6"/><text x="1032" y="47" class="mono" fill="#a7b3ce" font-size="11" letter-spacing="1">REC</text></g></svg>
+</svg>
+</g>
+<circle class="rec" cx="1020" cy="43" r="4" fill="#087f83"/><text x="1032" y="47" class="mono" fill="#52627d" font-size="11" letter-spacing="1">REC</text></g></svg>
